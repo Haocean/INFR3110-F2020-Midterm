@@ -1,0 +1,15 @@
+﻿  CheckpointTimeLogger.cpp
+C:\Users\Johnn\Documents\School Folder\Visual Studio 2019\Projects\Game Engine Design\INFR3110-F2020-Lesson4\INFR3110-F2020-Lesson4\CheckpointTimeLogger.h(19,27): warning C4251: 'CheckpointTimeLogger::m_RTBC': class 'std::vector<float,std::allocator<float>>' needs to have dll-interface to be used by clients of class 'CheckpointTimeLogger'
+C:\Users\Johnn\Documents\School Folder\Visual Studio 2019\Projects\Game Engine Design\INFR3110-F2020-Lesson4\INFR3110-F2020-Lesson4\CheckpointTimeLogger.h(19): message : see declaration of 'std::vector<float,std::allocator<float>>'
+C:\Users\Johnn\Documents\School Folder\Visual Studio 2019\Projects\Game Engine Design\INFR3110-F2020-Lesson4\INFR3110-F2020-Lesson4\CheckpointTimeLogger.cpp(28,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  GameObject.cpp
+  Main.cpp
+  Wrapper.cpp
+C:\Users\Johnn\Documents\School Folder\Visual Studio 2019\Projects\Game Engine Design\INFR3110-F2020-Lesson4\INFR3110-F2020-Lesson4\CheckpointTimeLogger.h(19,27): warning C4251: 'CheckpointTimeLogger::m_RTBC': class 'std::vector<float,std::allocator<float>>' needs to have dll-interface to be used by clients of class 'CheckpointTimeLogger'
+C:\Users\Johnn\Documents\School Folder\Visual Studio 2019\Projects\Game Engine Design\INFR3110-F2020-Lesson4\INFR3110-F2020-Lesson4\CheckpointTimeLogger.h(19): message : see declaration of 'std::vector<float,std::allocator<float>>'
+     Creating library C:\Users\Johnn\Documents\School Folder\Visual Studio 2019\Projects\Game Engine Design\INFR3110-F2020-Lesson4\x64\Release\INFR3110-F2020-Lesson4.lib and object C:\Users\Johnn\Documents\School Folder\Visual Studio 2019\Projects\Game Engine Design\INFR3110-F2020-Lesson4\x64\Release\INFR3110-F2020-Lesson4.exp
+  Generating code
+  Compiler version has changed, fall back to full compilation.
+  All 124 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  INFR3110-F2020-Lesson4.vcxproj -> C:\Users\Johnn\Documents\School Folder\Visual Studio 2019\Projects\Game Engine Design\INFR3110-F2020-Lesson4\x64\Release\INFR3110-F2020-Lesson4.dll
